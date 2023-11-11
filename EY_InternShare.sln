@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EY_InternShare.Client", "EY
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EY_InternShare.Shared", "EY_InternShare\Shared\EY_InternShare.Shared.csproj", "{3F7E97EA-285B-42D8-AAF0-47E7A3B5C488}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIBLOB", "APIBLOB\APIBLOB.csproj", "{BF7B6A5A-3AEC-4382-877D-756DE47C59F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3F7E97EA-285B-42D8-AAF0-47E7A3B5C488}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F7E97EA-285B-42D8-AAF0-47E7A3B5C488}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F7E97EA-285B-42D8-AAF0-47E7A3B5C488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF7B6A5A-3AEC-4382-877D-756DE47C59F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7B6A5A-3AEC-4382-877D-756DE47C59F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7B6A5A-3AEC-4382-877D-756DE47C59F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7B6A5A-3AEC-4382-877D-756DE47C59F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
